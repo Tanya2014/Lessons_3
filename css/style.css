@@ -1,0 +1,24 @@
+h1,
+h2,
+h3,
+h4{
+   color: red;
+}
+span{
+   color: red;
+}
+.text{
+   color: red;
+}
+.text-one{
+   color: red;
+}
+#block{
+   color: red;
+}
+.text-two p{
+   color: red;
+}
+.text-three>p{
+   color: red;
+}
